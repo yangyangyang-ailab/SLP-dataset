@@ -30,4 +30,4 @@ In each zip file, each sub-table contains individuals' subject score information
 *Table studentInfo* contains the basic demographic information of students, including their gender, school and class ID. The table consists of 4830 rows, and all the school and class information are anonymized.
 
 ## Applications
-With a 3-year consecutive data collecting process among a large-scale of learners, this dataset would provide valuable information and foster the cross-disciplinary research for learning analytics on a broader canvas. We welcome researchers to use our dataset only for research purpose. **Please make sure you state the source of the data when using them for publishing papers.**
+With a 3-year consecutive data collecting process among a large-scale of learners, this dataset would provide valuable information and foster the cross-disciplinary research for learning analytics on a broader canvas. We welcome researchers to use our dataset only for research purpose. **Please make sure you state the source of the data when using them for paper publication.**
